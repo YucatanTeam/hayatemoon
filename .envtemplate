@@ -1,0 +1,11 @@
+HOST=hyt.com
+SECRET=localcat
+PORT=80
+PGHOST=yucatan
+PGPORT=5432
+PGUSER=postgres
+PGPASS=
+PGDATABASE=hayatemoon
+NODE_ENV=development
+SECRET=
+COOKIE_SECRET=
